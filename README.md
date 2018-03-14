@@ -1,2 +1,2 @@
-# rigpi
-Amateur radio station control, MOMR (Multiple Operator, Multiple Radio)
+# RigPi
+Amateur radio station control, MOMR (Multiple Operators, Multiple Radios)
